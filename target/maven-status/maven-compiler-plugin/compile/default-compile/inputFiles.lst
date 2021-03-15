@@ -1,0 +1,8 @@
+/home/scorsaro/IdeaProjects/ironhack/horae/catalogue-horae/src/main/java/com/scorsaro/cataloguehorae/controller/CatalogController.java
+/home/scorsaro/IdeaProjects/ironhack/horae/catalogue-horae/src/main/java/com/scorsaro/cataloguehorae/dao/ProductCategoryRepository.java
+/home/scorsaro/IdeaProjects/ironhack/horae/catalogue-horae/src/main/java/com/scorsaro/cataloguehorae/dto/ProductDTO.java
+/home/scorsaro/IdeaProjects/ironhack/horae/catalogue-horae/src/main/java/com/scorsaro/cataloguehorae/config/RestConfig.java
+/home/scorsaro/IdeaProjects/ironhack/horae/catalogue-horae/src/main/java/com/scorsaro/cataloguehorae/entity/ProductCategory.java
+/home/scorsaro/IdeaProjects/ironhack/horae/catalogue-horae/src/main/java/com/scorsaro/cataloguehorae/dao/ProductRepository.java
+/home/scorsaro/IdeaProjects/ironhack/horae/catalogue-horae/src/main/java/com/scorsaro/cataloguehorae/entity/Product.java
+/home/scorsaro/IdeaProjects/ironhack/horae/catalogue-horae/src/main/java/com/scorsaro/cataloguehorae/CatalogueHoraeApplication.java
